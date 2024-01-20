@@ -85,6 +85,12 @@ p {
   background: #4d5ae5;
 }
 
+.hero-btn:hover,
+.hero-btn:focus {
+  background-color: #404bbf;
+  cursor: pointer;
+}
+
 .features-subtitle {
   color: #2e2f42;
   font-size: 20px;
