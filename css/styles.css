@@ -28,6 +28,10 @@ p {
   text-transform: uppercase;
 }
 
+.header-logo-normal {
+  color: #2e2f42;
+}
+
 .header-logo-blue {
   color: #4d5ae5;
 }
@@ -58,10 +62,6 @@ p {
   color: #404bbf;
 }
 
-/** main */
-
-/* hero */
-
 .hero-section {
   background-color: #2e2f42;
 }
@@ -85,8 +85,6 @@ p {
   background: #4d5ae5;
 }
 
-/* features */
-
 .features-subtitle {
   color: #2e2f42;
   font-size: 20px;
@@ -94,8 +92,6 @@ p {
   line-height: 1.2;
   letter-spacing: 0.4px;
 }
-
-/* team */
 
 .section-team {
   background: #f4f4fd;
@@ -119,8 +115,6 @@ p {
   letter-spacing: 0.04em;
 }
 
-/* portfolio */
-
 .portfolio-title {
   color: #2e2f42;
   text-align: center;
@@ -142,8 +136,6 @@ p {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-
-/* footer */
 
 .footer {
   background-color: #2e2f42;
