@@ -99,7 +99,7 @@ p {
   letter-spacing: 0.4px;
 }
 
-.section-team {
+.team {
   background: #f4f4fd;
 }
 
@@ -112,7 +112,7 @@ p {
   text-transform: capitalize;
 }
 
-.team-list {
+.team-list-item {
   background-color: #ffffff;
 }
 
