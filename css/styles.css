@@ -19,21 +19,18 @@ p {
 
 /** header */
 
-.header-logo {
+.header-footer-logo {
   font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-}
-
-.header-logo-normal {
-  color: #2e2f42;
-}
-
-.header-logo-blue {
   color: #4d5ae5;
+}
+
+.header-part-logo {
+  color: #2e2f42;
 }
 
 .header-list-link {
@@ -162,7 +159,7 @@ p {
   background-color: #2e2f42;
 }
 
-.footer-logo {
+.footer-part-logo {
   color: #f4f4fd;
 }
 
