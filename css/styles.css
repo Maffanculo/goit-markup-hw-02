@@ -36,7 +36,7 @@ p {
   font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -47,16 +47,28 @@ p {
 
 .header-list-link {
   color: #2e2f42;
+  font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
 
+.header-list-link:hover,
+.header-list-link:focus {
+  color: #404bbf;
+}
+
 .header-address-link {
   color: inherit;
+  font-size: 16px;
   font-style: normal;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+
+.header-address-link:hover,
+.header-address-link:focus {
+  color: #404bbf;
 }
 
 /** main */
